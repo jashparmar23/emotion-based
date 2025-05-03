@@ -44,7 +44,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.5
 mdurl==0.1.2
-mediapipe==0.10.11
+mediapipe==0.10.21  # Updated to a compatible version
 ml-dtypes==0.2.0
 mysql-connector==2.2.9
 mysql-connector-python==9.0.0
